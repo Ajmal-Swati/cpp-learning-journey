@@ -1,2 +1,13 @@
 # cpp-learning-journey
-A collection of C++ programs demonstrating core programming fundamentals, including data types, references, type casting, operator precedence, and control flow.
+
+# C++ Fundamentals
+
+A collection of C++ programs demonstrating core programming concepts.
+
+## Topics Covered
+- Data types and literal suffixes (`float`, `long double`)
+- Reference variables
+- Type casting
+- Operator precedence and associativity
+- Basic arithmetic calculator using `switch`
+
